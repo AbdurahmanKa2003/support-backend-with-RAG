@@ -1,0 +1,277 @@
+[
+    {
+      "slug": "ginkgo-biloba-500",
+      "name": "Ginkgo Biloba 500 mg",
+      "short": "Memory, focus, brain circulation",
+      "category": "Herbal Extracts",
+      "image": "images/ginkgo-biloba-500.jpg",
+      "description": "Supports brain circulation and cognitive function: memory, concentration, coordination. Reduces tinnitus and dizziness, helps with fatigue.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 60 pcs."},
+        {"name": "Serving", "value": "1 capsule"},
+        {"name": "Ingredients per serving", "value": "Ginkgo biloba leaf extract — 500 mg; Ginseng root extract — 20 mg; Citicoline — 15 mg"}
+      ]
+    },
+    {
+      "slug": "magnesium-b6",
+      "name": "Magnesium B6",
+      "short": "Nervous system, sleep, magnesium absorption",
+      "category": "Minerals",
+      "image": "images/magnesium-b6.jpg",
+      "description": "Magnesium participates in numerous metabolic processes, helps with irritability, muscle cramps, and sleep disorders. Vitamin B6 supports the nervous system and improves magnesium absorption.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 30 pcs."},
+        {"name": "Ingredients per 1 ml", "value": "Magnesium taurate (Mg) — 450 mg; Magnesium malate (Mg) — 250 mg; Vitamin B6 — 5 mg"}
+      ]
+    },
+    {
+      "slug": "burdock-extract",
+      "name": "Burdock Extract 500 mg",
+      "short": "General tone, anti-inflammatory effect",
+      "category": "Herbal Extracts",
+      "image": "images/burdock.jpg",
+      "description": "Promotes overall health, aids healing, helps with inflammation, normalizes weight and blood pressure, detoxifies, and reduces swelling.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 60 pcs."},
+        {"name": "Serving", "value": "1 capsule"},
+        {"name": "Ingredients", "value": "Burdock extract — 500 mg"}
+      ]
+    },
+    {
+      "slug": "spirulina-1000",
+      "name": "Spirulina 1000 mg",
+      "short": "Immunity, protein, metabolism",
+      "category": "Superfoods",
+      "image": "images/spirulina.jpg",
+      "description": "Supports immunity and gut microbiota, rich in protein and dietary fiber, helps regulate blood sugar and metabolism.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 60 pcs."},
+        {"name": "Serving", "value": "2 capsules"},
+        {"name": "Ingredients", "value": "Spirulina — 1000 mg"}
+      ]
+    },
+    {
+      "slug": "omega-3-1000",
+      "name": "Omega-3 1000 mg",
+      "short": "Brain, heart, vision",
+      "category": "Fatty Acids",
+      "image": "images/omega-3.jpg",
+      "description": "Essential fatty acids for brain and cardiovascular function, immunity, skin, and vision. Helps normalize lipid metabolism.",
+      "facts": [
+        {"name": "Form", "value": "Soft capsules, 60 pcs."},
+        {"name": "Serving", "value": "1 capsule"},
+        {"name": "Ingredients", "value": "Fish oil — 1000 mg; EPA — 180 mg; DHA — 120 mg"}
+      ]
+    },
+    {
+      "slug": "b-complex",
+      "name": "Vitamin B Complex",
+      "short": "Energy, nervous system, blood",
+      "category": "Vitamins",
+      "image": "images/b-complex.jpg",
+      "description": "B-complex vitamins for energy metabolism, CNS function, and blood formation. Supports hemoglobin synthesis, red blood cell production, and carbohydrate metabolism.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 60 pcs."},
+        {"name": "Serving", "value": "1 capsule"},
+        {"name": "Ingredients per serving", "value": "B1 — 50 mg; B2 — 50 mg; B3 — 50 mg; B5 — 20 mg; B6 — 10 mg; Biotin — 100 mcg; Inositol — 50 mg; Folic acid — 400 mcg; B12 — 50 mcg; Choline — 20 mg"}
+      ]
+    },
+    {
+      "slug": "iron-kids",
+      "name": "Iron Kids",
+      "short": "Children's iron, immunity, and growth",
+      "category": "For Kids",
+      "image": "images/iron-kids.jpg",
+      "description": "Supports immunity, tissue growth, and repair. Iron deficiency can lead to anemia.",
+      "facts": [
+        {"name": "Form", "value": "Liquid, 30 ml"},
+        {"name": "Serving", "value": "1 ml"},
+        {"name": "Ingredients", "value": "Iron — 50 mg"}
+      ]
+    },
+    {
+      "slug": "propolis-multivitamin",
+      "name": "Propolis Multivitamin & Multimineral",
+      "short": "Immune modulator, mucosal support",
+      "category": "Complexes",
+      "image": "images/propolis-multivitamin.jpg",
+      "description": "Natural immune modulator with propolis and a blend of vitamins and minerals. Supports inflammation, healing, and digestive health.",
+      "facts": [
+        {"name": "Form", "value": "Liquid, 150 ml"},
+        {"name": "Serving", "value": "10 ml"},
+        {"name": "Ingredients (per 10 ml)", "value": "Propolis 100 mg; Vit A 1000 IU; B1 0.7 mg; B2 0.8 mg; B3 8 mg; B5 5 mg; B6 1 mg; B12 2 mcg; C 60 mg; D 400 IU; E 10 mg; K 30 mcg; Copper 340 mcg; Selenium 20 mcg; Iodine 50 mcg; Zinc 3 mg; Folic acid 100 mcg; Biotin 15 mcg"}
+      ]
+    },
+    {
+      "slug": "womens-multivitamin",
+      "name": "Women's Multivitamin",
+      "short": "Daily balance, up to 98% absorption",
+      "category": "Complexes",
+      "image": "images/womens-multivitamin.jpg",
+      "description": "Balanced complex for women's health: digestion, immunity, metabolism, skin, and energy support.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 30 pcs."},
+        {"name": "Serving", "value": "1 capsule"},
+        {"name": "Ingredients (partial 1)", "value": "Vit C 50 mg; Mg 50 mg; Cranberry extract 50 mg; CoQ10 20 mg; Vit B3 10 mg; Vit B5 100 mcg; Vit E 50 mg; Fe 400 mcg; Zn 7.5 mg; Vit B6 3.3 mg; Choline 2.5 mg; Inositol 2.5 mg; Copper 2000 mcg; Manganese 2 mg; Vit B2 1.87 mg"},
+        {"name": "Ingredients (partial 2)", "value": "Vit B1 1.65 mg; Lutein 1 mg; Lycopene 600 mcg; Folic acid 400 mcg; Vit A 300 mcg (1000 IU); Biotin 300 mcg; Chromium 200 mcg; Zeaxanthin 200 mcg; Iodine 150 mcg; Selenium 100 mcg; Vit K 80 mcg; Molybdenum 75 mcg; Vit B12 25 mcg; Vit D 25 mcg (1000 IU); Vanadium 10 mcg"}
+      ]
+    },
+    {
+      "slug": "vitamin-d3-10000",
+      "name": "Vitamin D3 10,000 IU",
+      "short": "Immunity, calcium metabolism, blood vessels",
+      "category": "Vitamins",
+      "image": "images/vitamin-d3-10000.jpg",
+      "description": "Supports immunity and healthy calcium metabolism, promotes vascular elasticity, and prevents tissue calcification.",
+      "facts": [
+        {"name": "Form", "value": "Liquid, ~30 doses"},
+        {"name": "Serving", "value": "0.5 ml"},
+        {"name": "Ingredients", "value": "Vitamin D — 250 mcg (10,000 IU)"}
+      ]
+    },
+    {
+      "slug": "anti-stress",
+      "name": "Anti-Stress",
+      "short": "Calmness, sleep, reduced anxiety",
+      "category": "Herbal Extracts",
+      "image": "images/anti-stress.jpg",
+      "description": "Supports anxiety and tension relief, normalizes sleep. Contains St. John's wort, passionflower, and valerian extracts.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 30 pcs."},
+        {"name": "Serving", "value": "1 capsule"},
+        {"name": "Ingredients", "value": "St. John's wort extract 300 mg; passionflower extract 100 mg; valerian extract 100 mg"}
+      ]
+    },
+    {
+      "slug": "ca-mg-fe-d3",
+      "name": "Ca-Mg-Fe-D3",
+      "short": "Bones, blood, metabolism, deficiency prevention",
+      "category": "Minerals",
+      "image": "images/ca-mg-fe-d3.jpg",
+      "description": "Balanced combination of calcium, magnesium, iron, and vitamin D for bones, blood, and metabolism.",
+      "facts": [
+        {"name": "Form", "value": "Tablets, 60 pcs."},
+        {"name": "Serving", "value": "2 tablets"},
+        {"name": "Ingredients", "value": "Ca 500 mg; Mg 250 mg; Fe 16 mg; Vit D 15 mcg (600 IU)"}
+      ]
+    },
+    {
+      "slug": "artichoke-dandelion",
+      "name": "Artichoke & Dandelion Extracts",
+      "short": "Liver, bile flow, metabolism",
+      "category": "Herbal Extracts",
+      "image": "images/artichoke-dandelion.jpg",
+      "description": "Supports liver and bile function, antioxidant protection, mild diuretic effect.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 60 pcs."},
+        {"name": "Serving", "value": "1 capsule"},
+        {"name": "Ingredients", "value": "Artichoke extract 400 mg; dandelion root extract 200 mg"}
+      ]
+    },
+    {
+      "slug": "st-johns-wort-parsley",
+      "name": "St. John's Wort + Parsley",
+      "short": "Antiseptic and sedative effect",
+      "category": "Herbal Extracts",
+      "image": "images/st-johns-wort-parsley.jpg",
+      "description": "Herbal support: antibacterial, sedative, and regenerative properties; helps with stress and seasonal colds.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 60 pcs."},
+        {"name": "Serving", "value": "2 capsules"},
+        {"name": "Ingredients", "value": "St. John's wort extract 600 mg; parsley extract 200 mg"}
+      ]
+    },
+    {
+      "slug": "collagen-30-sachets",
+      "name": "Collagen — 30 Sachets",
+      "short": "Skin, joints, hair, and nails",
+      "category": "Collagen",
+      "image": "images/collagen-30-sachets.jpg",
+      "description": "Three collagen types + vitamin C, hyaluronic acid, CoQ10, zinc, biotin, and B vitamins for skin, joints, and overall tone.",
+      "facts": [
+        {"name": "Form", "value": "Sachets, 30 pcs."},
+        {"name": "Serving", "value": "1 sachet"},
+        {"name": "Ingredients (key)", "value": "Collagen I/III — 9950 mg; Vit C — 300 mg; HA — 100 mg; Collagen II — 50 mg; Vit E — 7 mg; Zn — 5 mg; Q10 — 5 mg; Vit B5 — 3.5 mg; Biotin — 2.5 mg; B6 — 1.4 mg; B12 — 2.5 mcg"}
+      ]
+    },
+    {
+      "slug": "zinc-complex",
+      "name": "Zinc (Complex)",
+      "short": "Immunity, skin, metabolism",
+      "category": "Minerals",
+      "image": "images/zinc-complex.jpg",
+      "description": "Supports immunity, skin, and metabolic processes. Enhanced with vitamin C, D, and selenium.",
+      "facts": [
+        {"name": "Form", "value": "Tablets, 60 pcs."},
+        {"name": "Serving", "value": "1 tablet"},
+        {"name": "Ingredients", "value": "Vit C 300 mg (375%); Zn 15 mg (150%); Vit D 1000 IU / 25 mcg (500%); Se 70 mcg (127%)"}
+      ]
+    },
+    {
+      "slug": "probiotic-30b",
+      "name": "Probiotic",
+      "short": "Microbiome and digestion",
+      "category": "Probiotics",
+      "image": "images/probiotic.jpg",
+      "description": "Multi-strain probiotic: protects against pathogens, synthesizes vitamins, improves mineral absorption, and supports immunity.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 30 pcs."},
+        {"name": "Serving", "value": "1 capsule"},
+        {"name": "Strains (per daily dose)", "value": "L. plantarum 4.6×10^9; L. acidophilus 3×10^9; L. paracasei 3×10^9; L. rhamnosus 2.2×10^8; L. brevis 2.2×10^8; S. thermophilus 2.2×10^8; B. bifidum 2×10^8; B. infantis 1.7×10^8; L. reuteri 1.3×10^8; B. longum 3.8×10^7; L. bulgaricus 1.6×10^7"}
+      ]
+    },
+    {
+      "slug": "slimming-complex",
+      "name": "Slimming Complex",
+      "short": "Tone, metabolism, appetite control",
+      "category": "Complexes",
+      "image": "images/slimming-complex.jpg",
+      "description": "Toning and weight management support: guarana, green tea, CLA, L-carnitine, garcinia, cinnamon, gymnema, 5-HTP, and chromium. Boosts endurance, focus, and metabolism.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 60 pcs."},
+        {"name": "Serving", "value": "1–2 capsules"},
+        {"name": "Ingredients (per 1 / 2 capsules)", "value": "CLA 250 / 500 mg; L-carnitine 100 / 200 mg; Guarana extract 125 / 250 mg; Green tea extract 50 / 100 mg; 'Alfalfa/maca'* extract 50 / 100 mg; Garcinia 25 / 50 mg; Cinnamon 25 / 50 mg; Gymnema 25 / 50 mg; 5-HTP 20 / 40 mg; Chromium 66 mcg (120/240% DV)"},
+        {"name": "Note", "value": "*'Lepidium meyenii' (maca) referenced in the source."}
+      ]
+    },
+    {
+      "slug": "ginkgo-syrup",
+      "name": "Ginkgo Biloba — Syrup",
+      "short": "Memory, brain circulation",
+      "category": "Syrups",
+      "image": "images/ginkgo-syrup.jpg",
+      "description": "Supports memory, mental clarity, and focus; improves brain circulation, dilates blood vessels, and normalizes blood pressure.",
+      "facts": [
+        {"name": "Form", "value": "Syrup, 150 ml"},
+        {"name": "Serving", "value": "5 ml"},
+        {"name": "Ingredients", "value": "Ginkgo biloba leaf extract — 375 mg; Korean ginseng extract — 20 mg; Citicoline — 15 mg"}
+      ]
+    },
+    {
+      "slug": "tribulus-complex",
+      "name": "Demir Dikeni (Tribulus) Complex",
+      "short": "Men's health, vitality",
+      "category": "Herbal Extracts",
+      "image": "images/tribulus-complex.jpg",
+      "description": "Supports male reproductive function, endurance, and vascular health. Contains tribulus, epimedium, ginseng, L-arginine, and L-carnitine.",
+      "facts": [
+        {"name": "Form", "value": "Capsules, 60 pcs."},
+        {"name": "Serving", "value": "2 capsules"},
+        {"name": "Ingredients (per serving)", "value": "Tribulus extract (saponins 900 mg) — 100 mg*; L-arginine 200 mg; Epimedium extract 200 mg; Korean ginseng extract 75 mg; Galangal powder 75 mg; L-carnitine 100 mg"},
+        {"name": "Note", "value": "*Source lists both 'saponins 900 mg' and '100 mg' — reconciled per catalog text."}
+      ]
+    },
+    {
+      "slug": "vitamin-c-effervescent-1000",
+      "name": "Vitamin C 1000 mg (Effervescent)",
+      "short": "Immunity, antioxidant, collagen",
+      "category": "Vitamins",
+      "image": "images/vitamin-c-eff.jpg",
+      "description": "Supports immunity, blood vessels, and skin health, improves iron absorption and collagen synthesis.",
+      "facts": [
+        {"name": "Form", "value": "Effervescent tablets, 20 pcs."},
+        {"name": "Serving", "value": "1 tablet"},
+        {"name": "Ingredients", "value": "Vitamin C — 1000 mg (1250% DV)"}
+      ]
+    }
+  ]
